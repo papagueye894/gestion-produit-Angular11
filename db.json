@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Clavier",
+      "price": "3000",
+      "quantity": 100,
+      "selected": true,
+      "available": true
+    },
+    {
+      "name": "Tecno",
+      "price": "70000",
+      "quantity": "70",
+      "selected": true,
+      "available": true,
+      "id": 3
+    }
+  ]
+}
